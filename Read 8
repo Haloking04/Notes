@@ -1,0 +1,2 @@
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true.
+An assignment operator assigns a value to its left operand based on the value of its right operand.
