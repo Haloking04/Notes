@@ -1,0 +1,12 @@
+Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
+Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
+<p>At Mozilla, we're a global community of</p>
+
+<ul>
+  <li>technologists</li>
+  <li>thinkers</li>
+  <li>builders</li>
+</ul>
+
+<p>working together…</p>
+The <body> HTML element represents the content of an HTML document. There can be only one <body> element in a document.
